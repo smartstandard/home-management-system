@@ -102,7 +102,7 @@ Feel free to explore each directory for more detailed information on their conte
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/didoslavov/rButler.git
+git clone https://github.com/smartstandard/home-management-system.git
 ```
 
 ### Unix based OS
